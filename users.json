@@ -16,5 +16,11 @@
        "password" : "password3",
        "profession" : "clerk",
        "id": 3
-    }
+    },
+    "user34" : {
+        "name" : "Ken",
+        "password" : "password4",
+        "profession" : "janitor",
+        "id": 3
+     }
  }
